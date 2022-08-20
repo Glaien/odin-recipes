@@ -10,3 +10,5 @@ tags, images and links; also getting familiar with git and GitHub.
 https://www.theodinproject.com/lessons/foundations-recipes
 
 I'll come back later to this project to work on my CSS skills.
+
+ED1: Adding some external CSS to it.
